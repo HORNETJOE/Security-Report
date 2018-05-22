@@ -16,3 +16,6 @@ The risks that can come from data can also be an impact on Reboot games as well 
 Social Engineering is another risk that can occur at Reboot games. Social Engineering is a risks that can happen due to an employee selling private data to a rival company for self-gain or if an employee was manipulated into giving up information or allowing access to private part of a system in Reboot games.
 ## Security Procedures
 There are many different security procedures that take place at Reboot games and at the college campus. One of these procedures is the security gates at the entrance of the building. The security gates require a ID to be used in order to open up to allow entry to the building. Another security procedure would be the RFID lock on the door to the room. This RFID lock needs the same ID in order to make sure that the right people are allowed into the room that have the right Clarence in order to be in that room. Another prosedure is uploading work.
+## Data protection
+
+## Disaster Recovery Plan
