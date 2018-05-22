@@ -22,3 +22,8 @@ If these security procedures if followed as planned can create a good security p
 Data protection is the rule that user’s data online in the company Reboot games must be protected and cannot be used/gathered without the user’s knowledge. The data protection act (1998) prevents the misuse of customer data and information and prevents business and organizations from using their data without their permission. An update was made to the data protection act that took place in 2017 which allows any user from backing out of a data agreement any time they want and their private information is to be deleted with their departure from the agreement. The company would have to agree with these terms. If they don't agree with the terms or break the terms they can face cost of £500,000 for serious breaches of the Data Protection Act. When referring to reboot games, data protection will involve keeping employee data within the business Reboot games. When collecting information for research in projects in Reboot games the data that is collected must be kept within the company and not used for anything other then what was specified when collecting the information.
 ## Disaster Recovery Plan
 A disaster recovery plan is backup plan in case of an emergency in which reboot games might not recover from by normal means. This disaster recovery plan would involve a plan to recover from big disasters such as a natural disaster i.e. fire and manmade disasters such as power cuts. These plans can involve funds to build Reboot games back from the disaster as well as spare equipment. The plan for a power cut would be to use wireless/handled equipment that doesn't need a constant power supply to function. Another version
+## DMZ
+
+## static IP
+
+## NAT
