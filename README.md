@@ -23,7 +23,7 @@ Data protection is the rule that user’s data online in the company Reboot game
 ## Disaster Recovery Plan
 A disaster recovery plan is backup plan in case of an emergency in which reboot games might not recover from by normal means. This disaster recovery plan would involve a plan to recover from big disasters such as a natural disaster i.e. fire and manmade disasters such as power cuts. These plans can involve funds to build Reboot games back from the disaster as well as spare equipment. The plan for a power cut would be to use wireless/handled equipment that doesn't need a constant power supply to function. Another version
 ## DMZ
-
+A DMZ (demilitarized zone) is a physical or logical subnetwork that contains and exposes an organization's external services to a larger untrusted network such as the internet. The purpose of the DMZ is to add antoher layer of securiyt to a locel network (LAN) this would prevent some hackers from gaining access to the LAN network and insteed only gain acess to the equipment in the DMZ.
 ## static IP
-
+A static IP is an IP address which does not change this can also be refered to as a permenent number assigned to a computer by a internet serveice provider (ISP)
 ## NAT
